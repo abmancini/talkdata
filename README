@@ -1,0 +1,13 @@
+#install sktime
+pip install sktime
+
+#install tsfresh 
+pip install tsfresh
+
+
+to test execute check.py
+
+
+
+
+
